@@ -5,6 +5,7 @@ A curated list of robotics simulators and libraries.
 #### Table of Contents
 * [Simulators](#simulators)
 * [Libraries](#libraries)
+  * [Base](#base)
   * [Dynamics Simulation](#dynamics-simulation)
   * [Machine Learning](#machine-learning)
   * [Motion Planning and Control](#motion-planning-and-control)
@@ -41,6 +42,19 @@ A curated list of robotics simulators and libraries.
 * [Webots](http://www.cyberbotics.com/) - Robot simulator that provides a complete development environment
 
 ## [Libraries](#awesome-robotics-libraries)
+
+### [Base](#awesome-robotics-libraries)
+| Name | Features | Languages | Licenses | Code | Popularity |
+|:----:| ------ | --------- | -------- | ---- | ---------- |
+| [Boost](https://www.boost.org/) |  | C++ | | | |
+| [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) |   template library for linear algebra | C++ |  MPL2 | [github](https://github.com/eigenteam/eigen-git-mirror)|![Eigen](https://img.shields.io/github/stars/eigenteam/eigen-git-mirror.svg?style=flat&label=Star&maxAge=86400) |
+| [FlatBuffers](http://google.github.io/flatbuffers/) |   Memory Efficient Serialization Library | All |  Apache-2.0| [github](https://github.com/google/flatbuffers)|![FlatBuffers](https://img.shields.io/github/stars/google/flatbuffers.svg?style=flat&label=Star&maxAge=86400) |
+| [spdlog](https://github.com/gabime/spdlog/wiki) |   Fast C++ logging library | C++ | MIT | [github](https://github.com/gabime/spdlog)|![spdlog](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat&label=Star&maxAge=86400) |
+| [glog](https://github.com/google/glog) | C++ implementation of the Google logging module | C++ | | [github](https://github.com/google/glog)|![glog](https://img.shields.io/github/stars/google/glog.svg?style=flat&label=Star&maxAge=86400) |
+| [googletest](https://github.com/google/googletest) |   Google's C++ test framework | C++ | BSD 3-Clause | [github](https://github.com/google/googletest)|![googletest](https://img.shields.io/github/stars/google/googletest.svg?style=flat&label=Star&maxAge=86400) |
+| [ZeroMQ](http://zeromq.org/) | lightweight messaging kernel | C++ | LGPL | [github](https://github.com/zeromq/libzmq)|![ZeroMQ](https://img.shields.io/github/stars/zeromq/libzmq.svg?style=flat&label=Star&maxAge=86400) |
+| [Fast-RTPS](http://www.eprosima.com/) | C++ implementation of the RTPS (Real Time Publish Subscribe) protocol | C++ | Apache-2.0 | [github](https://github.com/eProsima/Fast-RTPS)|![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg?style=flat&label=Star&maxAge=86400) |
+| [ceres-solver](http://ceres-solver.org/) |   A large scale non-linear optimization library | C++ | | [github](https://github.com/ceres-solver/ceres-solver)|![ceres-solver](https://img.shields.io/github/stars/ceres-solver/ceres-solver.svg?style=flat&label=Star&maxAge=86400) |
 
 ### [Dynamics Simulation](#awesome-robotics-libraries)
 
