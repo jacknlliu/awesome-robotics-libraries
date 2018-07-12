@@ -55,6 +55,9 @@ A curated list of robotics simulators and libraries.
 | [ZeroMQ](http://zeromq.org/) | lightweight messaging kernel | C++ | LGPL | [github](https://github.com/zeromq/libzmq)|![ZeroMQ](https://img.shields.io/github/stars/zeromq/libzmq.svg?style=flat&label=Star&maxAge=86400) |
 | [Fast-RTPS](http://www.eprosima.com/) | C++ implementation of the RTPS (Real Time Publish Subscribe) protocol | C++ | Apache-2.0 | [github](https://github.com/eProsima/Fast-RTPS)|![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg?style=flat&label=Star&maxAge=86400) |
 | [ceres-solver](http://ceres-solver.org/) |   A large scale non-linear optimization library | C++ | | [github](https://github.com/ceres-solver/ceres-solver)|![ceres-solver](https://img.shields.io/github/stars/ceres-solver/ceres-solver.svg?style=flat&label=Star&maxAge=86400) |
+| [Tasks](https://github.com/jrl-umi3218/Tasks) | A library for real time control of robots and kinematic trees using constrained optimization | C++, python binding | LGPL-3.0 | [github](https://github.com/jrl-umi3218/Tasks)|![Tasks](https://img.shields.io/github/stars/jrl-umi3218/Tasks.svg?style=flat&label=Star&maxAge=86400) |
+
+
 
 ### [Dynamics Simulation](#awesome-robotics-libraries)
 
